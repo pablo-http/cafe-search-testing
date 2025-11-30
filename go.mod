@@ -1,4 +1,5 @@
-module files
+module github.com/pablo-http/cafe-search-testing
+
 
 go 1.24.1
 
